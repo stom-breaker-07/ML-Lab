@@ -1,0 +1,20 @@
+Outliers Detection:
+Avg. Area Income: 32 outliers
+Avg. Area House Age: 25 outliers
+Avg. Area Number of Rooms: 24 outliers
+Avg. Area Number of Bedrooms: 0 outliers
+Area Population: 30 outliers
+Price: 35 outliers
+
+Dataset Summary:
+       Avg. Area Income  Avg. Area House Age  ...  Area Population         Price
+count       5000.000000          5000.000000  ...      5000.000000  5.000000e+03
+mean       68583.108984             5.977222  ...     36163.516039  1.232073e+06
+std        10657.991214             0.991456  ...      9925.650114  3.531176e+05
+min        17796.631190             2.644304  ...       172.610686  1.593866e+04
+25%        61480.562390             5.322283  ...     29403.928700  9.975771e+05
+50%        68804.286405             5.970429  ...     36199.406690  1.232669e+06
+75%        75783.338665             6.650808  ...     42861.290770  1.471210e+06
+max       107701.748400             9.519088  ...     69621.713380  2.469066e+06
+
+[8 rows x 6 columns]
